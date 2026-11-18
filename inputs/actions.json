@@ -1,0 +1,17 @@
+[
+  {
+    "step": 1,
+    "op": "wording_flag",
+    "form": "v2",
+    "item_id": "I3",
+    "status": "mistranscribed"
+  },
+  {
+    "step": 2,
+    "op": "bridge_append",
+    "person": "NEW-G2",
+    "group": "G2",
+    "first_form": "v1",
+    "second_form": "v2"
+  }
+]
