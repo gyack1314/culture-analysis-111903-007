@@ -23,8 +23,8 @@
     },
     {
       "path": "items.parquet",
-      "bytes": 8329,
-      "sha256": "4ed855d35fef74afddd60fdb797cb599f164674d59f80520a7201fda8840a16e",
+      "bytes": 10171,
+      "sha256": "68f73d70c6dbd10123551cf6fc69ec42b664d189a39425fe811c66ba2d4e6ed4",
       "rows": 12
     },
     {
@@ -41,8 +41,8 @@
     },
     {
       "path": "seed.json",
-      "bytes": 379606,
-      "sha256": "bbc30ec1f2e690852895a271351f2ba92c0862ee6673ff134e64427b4aeec52a"
+      "bytes": 380128,
+      "sha256": "e95e347df4414a7f04f2d1e78a4cbc61bb7417f62fb876a4e9e5f4ae4ad5eade"
     },
     {
       "path": "target_margins.json",
